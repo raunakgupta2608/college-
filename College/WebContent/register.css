@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+*{
+	background:#FEFE9A;
+}
+th
+{
+	font-family: 'Fredoka One', cursive:
+}
+td
+{
+	font-family: 'Cardo', serif;
+}
+table, td, th, #registertablejsp
+{
+	border-collapse: collapse;
+	border:1px solid black;
+	background-color:white;
+	padding-left:10px;
+	padding-right:10px;
+}
+#registerjspdiv
+{
+	width:60%;
+	height:auto;
+	margin-left:20%;
+	margin-top:7%;
+	background:#343409;
+	border:1px solid red;
+}
+#formjspdiv
+{
+	width:30%;
+}
+#buttondiv
+{
+	width:60%;
+	//margin-left:150px;
+}
+#button
+{
+	background:#FFFFDB;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+*{
+	background:#D3E788;
+}
+h1{
+	color:#2B3409;
+}
+#indexdiv
+{
+	background:#F4F9E1;
+	border:1px solid black;
+	padding-top:10px;
+}
+td,tr
+{
+	background:#F4F9E1;
+	font-family: 'ABeeZee', sans-serif;
+	padding-left :10px;
+	padding-right:10px;
+}
+#indextable
+{
+	margin-left:30%;
+	border:1px solid black;
+	
+}
+#buttondiv
+{
+		margin-left:10%;
+		margin-left:45%;
+		background:#F4F9E1;
+}
+#registerbutton
+{
+	background:#F1F791;
+	padding:7px 10px;
+}
+
+
+
+
+
+
+
+
